@@ -42,7 +42,7 @@ There is an example frontend implemented in React.js that makes simple API calls
 #### API Instructions
 1. Clone this repository
     ```
-        git clone https://github.com/CS222SP22/course-project-mx-a.git
+        git clone https://github.com/omchabra/Search-Engine-Group-Project
     ```
 2. Install dependencies
     ```
@@ -56,7 +56,7 @@ There is an example frontend implemented in React.js that makes simple API calls
 #### React.js Instructions
 1. Clone this repository
     ```
-        git clone https://github.com/CS222SP22/course-project-mx-a.git
+        git clone https://github.com/omchabra/Search-Engine-Group-Project
     ```
 2. Build React.js app
     ```
